@@ -1,0 +1,30 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class GameEngine : MonoBehaviour {
+
+	public AudioClip sound_feed;
+	public AudioClip sound_eggLay;
+
+	// Use this for initialization
+	void Start () {
+
+	}
+
+	// Update is called once per frame
+	void Update () {
+
+	}
+		
+
+	// this is one sound, you can have others
+	public void PlayFeedSound(){
+		GetComponent<AudioSource>().PlayOneShot (sound_feed);
+	}
+
+	// this is one sound, you can have others
+	public void PlayEggLaySound(){
+		GetComponent<AudioSource>().PlayOneShot (sound_eggLay);
+	}
+		
+}
