@@ -1,4 +1,6 @@
-﻿/* ===========================================
+//Not created from scratch by me, but I did use this a lot while making games in Unity (C#)
+
+/* ===========================================
  * SimpleController 
  * 	Attach to a game object.
  * 	Use WASD to move it around.
