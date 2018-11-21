@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+//Creating a timer in Unity (C#)
+
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
