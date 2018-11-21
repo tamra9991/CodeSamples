@@ -1,3 +1,5 @@
+// Stylesheets for a game made in Twine.  The game is text based with several changing backgrounds and noises
+
 .Hallway {
  background-image:url("Images/Hallway.png"); opacity:0.5;
  background-size:cover;
