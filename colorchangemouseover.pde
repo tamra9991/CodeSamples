@@ -1,3 +1,5 @@
+// Simple test to change square color when the mouse is moved over it
+
 void setup () {
   size(500, 500);
   
