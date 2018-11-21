@@ -1,3 +1,5 @@
+// Used in Processing.  Experimentation with a color changing oval that follows the mouse. 
+
 void setup(){
   size(500, 500);
 }
