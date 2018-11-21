@@ -1,5 +1,5 @@
-/* Used in Unity to produce sound when clicking on a button.  The act of sound via clicking did not need a script
-*/
+//* Used in Unity to produce sound when clicking on a button.  The act of sound via clicking did not need a script
+*//
 
 using UnityEngine;
 using System.Collections;
