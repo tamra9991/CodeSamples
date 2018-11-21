@@ -1,3 +1,5 @@
+// Experimental class project to create an abstract pattern.
+
 String path;
 PImage img;
 
