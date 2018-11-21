@@ -1,0 +1,95 @@
+.Hallway {
+ background-image:url("Images/Hallway.png"); opacity:0.5;
+ background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.coffee {
+ background-image:url("Images/Coffee.png"); opacity:0.2;
+ background-size:60%;
+background-repeat:no-repeat;
+	
+}
+
+.stove {
+ background-image:url("Images/stove.png"); opacity:0.2;
+ background-size:60%;
+background-repeat:no-repeat;
+	
+}
+
+.alley {
+ background-image:url("Images/alley.png"); opacity:0.2;
+ background-size:60%;
+background-repeat:no-repeat;
+	background-color: rgba(6,8,47, 0.9);
+	
+}
+
+.talking {
+ background-image:url("Images/talking.png"); opacity:0.2;
+ background-size:cover;
+background-repeat:no-repeat;
+	background-color: rgb(0,0,0);
+	
+}
+
+.crowdedroom {
+ background-image:url("Images/crowdedroom.png"); opacity:0.2;
+ background-size:80%;
+background-repeat:no-repeat;
+	background-color: rgba(6,8,47, 0.9);
+	
+}
+
+
+.hallway {
+ background-image:url("Images/hallway.png"); opacity:0.2;
+ background-size:80%;
+background-repeat:no-repeat;
+	background-color: rgba(6,8,47, 0.9);
+	
+}
+
+
+.path {
+ background-image:url("Images/path.png"); opacity:0.2;
+ background-size:80%;
+background-repeat:no-repeat;
+	background-color: rgba(6,8,47, 0.9);
+	
+}
+
+body{
+	background-color: rgba(243, 204, 110, 0.5)}
+
+
+tw-story {
+	color: rgb(0, 0, 0);
+	height: 100%;
+}
+
+tw-passage {
+	background-color: rgba(255, 255, 255, 0.7);
+	border: 2px solid white;
+	border-radius: 1em;
+	width: 80%;
+  padding: 15px;
+	font-weight: bold;
+	position:relative;
+	top:0%; /* This sets how far down the passage is displayed */
+	display: block;
+  margin:auto;
+}
+
+tw-sidebar tw-icon.redo {
+	display: none;
+}
+tw-sidebar tw-icon.undo {
+	display: none;
+}
+
+
+
+
+
